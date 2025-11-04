@@ -10,4 +10,4 @@
 - ☁️ AWS (EC2, S3)
 
 ### 📊 GitHub Stats
-![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirpoojara&show_icons=true&theme=radical)
+![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirpoojara100&show_icons=true&theme=radical)
