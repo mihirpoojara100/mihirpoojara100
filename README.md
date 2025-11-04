@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Mihir
 
-<!--
-**mihirpoojara100/mihirpoojara100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a backend developer working with **FastAPI**, **PostgreSQL**, and **Docker**.  
+💡 Currently learning **DevOps & CI/CD**.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- 🐍 Python / FastAPI
+- 🐘 PostgreSQL
+- 🐳 Docker
+- ☁️ AWS (EC2, S3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirpoojara&show_icons=true&theme=radical)
