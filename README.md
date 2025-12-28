@@ -17,37 +17,69 @@ I build scalable backend systems, work with cloud infrastructure, and explore pr
 ## 🧠 Core Skills
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript&size=36" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="36" alt="TypeScript" />
+</p>
 
 ---
 
 ### 🎨 Web Technologies
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux,nodejs&size=36" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=redux" height="36" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" />
+</p>
 
 ---
 
 ### ⚙️ Backend Frameworks
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs&size=36" />
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="36" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="36" alt="NestJS" />
+</p>
 
 ---
 
 ### ☁️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,terraform&size=36" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="36" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="36" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="36" alt="Terraform" />
+</p>
 
 ---
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&size=36" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" />
+</p>
 
 ---
 
 ### ☁️ Cloud Platforms
-<img src="https://skillicons.dev/icons?i=aws,gcp&size=36" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="36" alt="Google Cloud Platform" />
+</p>
 
 ---
 
 ### 🔀 Version Control
-<img src="https://skillicons.dev/icons?i=git,bitbucket&size=36" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="36" alt="Bitbucket" />
+</p>
 
 ---
 
@@ -64,15 +96,11 @@ I build scalable backend systems, work with cloud infrastructure, and explore pr
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mihir-poojara/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&size=36" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
   </a>
   <a href="mailto:mihirpoojara100@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&size=36" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
