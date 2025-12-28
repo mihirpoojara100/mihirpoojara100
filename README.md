@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-I build scalable backend systems, work with cloud infrastructure, and explore practical applications of AI.
+I build scalable backend systems, enjoy system design discussions, practice data structures & algorithms,
+and work with cloud and DevOps practices while exploring practical applications of AI.
 </p>
 
 <p align="center">
@@ -62,6 +63,8 @@ I build scalable backend systems, work with cloud infrastructure, and explore pr
   <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="36" alt="DynamoDB" />
+  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" />
 </p>
 
 ---
@@ -82,12 +85,11 @@ I build scalable backend systems, work with cloud infrastructure, and explore pr
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihirpoojara100&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirpoojara100&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+## 🎯 Focus Areas
+- System Design & Scalable Architectures  
+- Data Structures & Algorithms  
+- Backend Engineering & Distributed Systems  
+- Cloud & DevOps Practices  
 
 ---
 
