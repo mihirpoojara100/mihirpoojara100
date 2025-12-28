@@ -25,7 +25,7 @@ I build scalable backend systems, work with cloud infrastructure, and explore pr
 
 ---
 
-### 🎨 Web Technologies
+### 🎨 Frontend Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS" />
@@ -33,7 +33,6 @@ I build scalable backend systems, work with cloud infrastructure, and explore pr
   <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=redux" height="36" alt="Redux" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" />
 </p>
 
 ---
