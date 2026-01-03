@@ -17,71 +17,80 @@ and work with cloud and DevOps practices while exploring practical applications 
 
 ## 🧠 Core Skills
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="36" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="36" alt="TypeScript" />
-</p>
+<table>
+  <tr>
+    <th align="left">Technology</th>
+    <th align="left">Icons</th>
+  </tr>
 
----
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" height="36" />
+      <img src="https://skillicons.dev/icons?i=javascript" height="36" />
+      <img src="https://skillicons.dev/icons?i=typescript" height="36" />
+    </td>
+  </tr>
 
-### 🎨 Frontend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=redux" height="36" alt="Redux" />
-</p>
+  <tr>
+    <td><strong>Frontend Technologies</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" height="36" />
+      <img src="https://skillicons.dev/icons?i=css" height="36" />
+      <img src="https://skillicons.dev/icons?i=react" height="36" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="36" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="36" />
+      <img src="https://skillicons.dev/icons?i=redux" height="36" />
+    </td>
+  </tr>
 
----
+  <tr>
+    <td><strong>Backend Frameworks</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="36" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="36" />
+      <img src="https://skillicons.dev/icons?i=express" height="36" />
+      <img src="https://skillicons.dev/icons?i=nestjs" height="36" />
+    </td>
+  </tr>
 
-### ⚙️ Backend Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="36" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="36" alt="NestJS" />
-</p>
+  <tr>
+    <td><strong>DevOps & Infrastructure</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="36" />
+      <img src="https://skillicons.dev/icons?i=nginx" height="36" />
+      <img src="https://skillicons.dev/icons?i=githubactions" height="36" />
+      <img src="https://skillicons.dev/icons?i=terraform" height="36" />
+    </td>
+  </tr>
 
----
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" height="36" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="36" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="36" />
+      <img src="https://skillicons.dev/icons?i=dynamodb" height="36" />
+      <img src="https://skillicons.dev/icons?i=redis" height="36" />
+    </td>
+  </tr>
 
-### ☁️ DevOps & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="36" alt="Nginx" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="36" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="36" alt="Terraform" />
-</p>
+  <tr>
+    <td><strong>Cloud Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" height="36" />
+      <img src="https://skillicons.dev/icons?i=gcp" height="36" />
+    </td>
+  </tr>
 
----
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="36" alt="DynamoDB" />
-  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" />
-</p>
-
----
-
-### ☁️ Cloud Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="36" alt="Google Cloud Platform" />
-</p>
-
----
-
-### 🔀 Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=bitbucket" height="36" alt="Bitbucket" />
-</p>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="36" />
+      <img src="https://skillicons.dev/icons?i=bitbucket" height="36" />
+    </td>
+  </tr>
+</table>
 
 ---
 
